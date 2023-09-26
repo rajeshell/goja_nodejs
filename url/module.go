@@ -1,8 +1,8 @@
 package url
 
 import (
-	"github.com/dop251/goja"
-	"github.com/dop251/goja_nodejs/require"
+	"github.com/rajeshell/goja"
+	"github.com/rajeshell/goja_nodejs/require"
 )
 
 const ModuleName = "url"
